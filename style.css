@@ -1,0 +1,164 @@
+.navbar{
+    display: flex;
+    justify-content: right;
+    background-color: rgb(250, 241, 224);
+    padding-bottom: 10px;
+}
+.work , .blog, .contact {
+    padding-right: 70px;
+    padding-top: 30px;
+    cursor: pointer;
+    font-size: large;
+}
+
+.work :hover{
+    color: red;
+
+}
+.blog :hover{
+    color: red;
+}
+.contact :hover{
+    color: red;
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.but{
+    padding: 15px;
+    background-color: #FF6464;
+    color: white;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: #d34c4c;
+}
+.img1{
+   padding-right: 120px;
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    background-color:rgba(237, 247, 250, 1);
+    padding-bottom: 30px;
+}
+.post{
+    padding-left: 100px;
+}
+.view{
+    padding-right: 100px;
+    color: rgb(90, 186, 224);
+}
+.matter, .matter1{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+}
+.date{
+    display: flex;
+    justify-content: space-between;
+}
+.figma{
+    padding-right: 40px;
+}
+.sp {
+    background-color: #979797;
+    display: inline-block;
+    height: 1px;
+    width: 100%;
+}
+.container3{
+    display: flex;
+    justify-content: left;
+    padding-top: 20px;
+}
+.b{
+    padding-left: 10px;
+}
+.parent3{
+    padding-top: 30px;
+    padding-left: 90px;
+    padding-right: 200px;
+}
+.year{
+    display: flex;
+    justify-content: left;
+}
+.c{
+    padding-left: 20px;
+    color: #979797;
+}
+.a{
+    background-color:  rgb(20,40,80);
+    color: white;
+    border-radius: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.container4{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+.parent4{
+    text-align: center;
+    padding-top: 40px;
+}
+.d{
+    padding-left: 10px;
+}
+.parent5{
+    padding top: 25px;
+    padding-left: 150px;
+    padding-right: 200px;
+}
+.e{
+    display: flex;
+    justify-content: left;
+}
+.f{
+    padding-left: 40px;
+    color: #8695A4;
+}
+.back{
+    text-align: right;
+    cursor: pointer;
+}
+.front{
+    display: flex;
+    justify-content: right;
+    padding-right: 200px;
+    padding-top: 30px;
+}
+.back,.next{
+    padding-right: 30px;
+}
+.next{
+    font-size: large;
+}
+.parent7{
+    padding: 30px;
+    padding-left: 150px;
+}
+.g{
+    text-align: center;
+}
+.Dashboard1{
+    display: flex;
+    justify-self: center;
+}
+.h{
+    padding-left: 40px;
+}
+.i{
+    background-color: #FF6464;
+    color: white;
+    border-radius: 30px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
